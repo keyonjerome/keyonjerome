@@ -11,7 +11,7 @@ Feel free to check out any of my pinned repositories for info about my coolest p
 [LinkedIn](https://www.linkedin.com/in/keyonjerome) \
 [Devpost](https://devpost.com/Keyon-Jerome) \
 [Website](https://keyonjerome.co) \
-[Resume](https://github.com/keyonjerome/keyonjerome/files/6935457/Keyon_Jerome_Resume_CS-WS-Rearranged-3.pdf) \
+[Resume](https://github.com/keyonjerome/keyonjerome/files/6935457/Keyon_Jerome_Resume_CS-WS-Rearranged-3.pdf) 
 
 <!--[Keyon_Jerome_Resume_CS-WS-Rearranged-3.pdf](https://github.com/keyonjerome/keyonjerome/files/6935457/Keyon_Jerome_Resume_CS-WS-Rearranged-3.pdf)
 
