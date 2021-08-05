@@ -8,10 +8,10 @@ My name's Keyon. I’m a UWaterloo Mechatronics Engineering student, technology 
 
 Feel free to check out any of my pinned repositories for info about my coolest projects. If you'd like to get in touch, send me an email at keyonjerome@gmail.com, or a LinkedIn message!
 
-[LinkedIn](https://www.linkedin.com/in/keyonjerome)
-[Devpost](https://devpost.com/Keyon-Jerome)
-[Website](https://keyonjerome.co)
-[Resume](https://github.com/keyonjerome/keyonjerome/files/6935457/Keyon_Jerome_Resume_CS-WS-Rearranged-3.pdf)
+[LinkedIn](https://www.linkedin.com/in/keyonjerome) \
+[Devpost](https://devpost.com/Keyon-Jerome) \
+[Website](https://keyonjerome.co) \ 
+[Resume](https://github.com/keyonjerome/keyonjerome/files/6935457/Keyon_Jerome_Resume_CS-WS-Rearranged-3.pdf) \
 
 <!--[Keyon_Jerome_Resume_CS-WS-Rearranged-3.pdf](https://github.com/keyonjerome/keyonjerome/files/6935457/Keyon_Jerome_Resume_CS-WS-Rearranged-3.pdf)
 
