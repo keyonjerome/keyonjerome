@@ -6,12 +6,13 @@ My name's Keyon. I’m a UWaterloo Mechatronics Engineering student, technology 
 
 *I'm currently looking for Winter 2022 internship opportunities in backend or embedded systems development.*
 
-Feel free to check out any of my pinned repositories for info about my coolest projects. If you'd like to get in touch, send me an email at keyonjerome@gmail.com, or a LinkedIn message!
+Feel free to check out my [portfolio](https://keyon.io/portfolio) for info about my coolest projects. If you'd like to get in touch, send me an email at keyonjerome@gmail.com, or a LinkedIn message!
 
 [LinkedIn](https://www.linkedin.com/in/keyonjerome) \
 [Devpost](https://devpost.com/Keyon-Jerome) \
-[Website](https://keyonjerome.co) \
-[Resume](https://github.com/keyonjerome/keyonjerome/files/6935457/Keyon_Jerome_Resume_CS-WS-Rearranged-3.pdf) 
+[Website](https://keyon.io) \
+[Resume](https://keyon.io/resume) \
+[Portfolio](https://keyon.io/portfolio) 
 
 <!--[Keyon_Jerome_Resume_CS-WS-Rearranged-3.pdf](https://github.com/keyonjerome/keyonjerome/files/6935457/Keyon_Jerome_Resume_CS-WS-Rearranged-3.pdf)
 
