@@ -4,12 +4,12 @@ _I dissected an iris today. It was an eye-opening experience._
 
 My name's Keyon. I’m a UWaterloo Mechatronics Engineering student, technology enthusiast, and professional dad-joke maker. I have a dad joke app installed on my phone, and I'm pretty sure terrible jokes are the only reason I passed my high-school drivers' test.
 
-*I'm currently looking for Winter 2022 internship opportunities in backend or embedded systems development.*
+*I'm currently looking for Fall 2022 internship opportunities in embedded systems and firmware development.*
 
 Feel free to check out my [portfolio](https://keyon.io/portfolio) for info about my coolest projects. If you'd like to get in touch, send me an email at keyonjerome@gmail.com, or a LinkedIn message!
 
 [LinkedIn](https://www.linkedin.com/in/keyonjerome) \
-[Devpost](https://devpost.com/Keyon-Jerome) \
+[Devpost](https://devpost.com/keyonjerome) \
 [Website](https://keyon.io) \
 [Resume](https://keyon.io/resume) \
 [Portfolio](https://keyon.io/portfolio) 
