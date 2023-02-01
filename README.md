@@ -2,11 +2,11 @@
 
 _I dissected an iris today. It was an eye-opening experience._
 
-My name's Keyon. I’m a UWaterloo Computer Engineering student, robotics enthusiast, and professional dad-joke maker. I have a dad joke app installed on my phone, and I'm pretty sure these terrible jokes are the only reason I passed my high-school drivers' test. On the technical side, I love most things that use ROS/ROS2 or C/C++ :).
+My name's Keyon. I’m a UWaterloo Computer Engineering student, robotics enthusiast, and professional dad-joke maker. I have a dad joke app installed on my phone, and I'm pretty sure these terrible jokes are the only reason I passed my high-school drivers' test. On the technical side, I've had a few internships and some awesome student team experience—I love most things that use ROS/ROS2 or C/C++ :).
 
-*I'm currently looking for Fall 2023 internship opportunities in embedded systems, robotics, and firmware development.*
+*I'm currently looking for Fall 2023 internship opportunities in embedded systems, robotics, controls, and firmware development.*
 
-Feel free to check out my [portfolio](https://keyon.io/portfolio) for info about my coolest projects. If you'd like to get in touch, send me an email at keyonjerome@gmail.com, or a LinkedIn message!
+Feel free to check out my [portfolio](https://keyon.io/portfolio) for info about my coolest projects, or my [LinkedIn](https://www.linkedin.com/in/keyonjerome) for my work experience. If you'd like to get in touch, send me an email at keyonjerome@gmail.com, or a LinkedIn message!
 
 [LinkedIn](https://www.linkedin.com/in/keyonjerome) \
 [Devpost](https://devpost.com/keyonjerome) \
